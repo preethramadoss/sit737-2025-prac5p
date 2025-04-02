@@ -3,7 +3,6 @@ const path = require('path');
 const app = express();
 const PORT = 3040;
 
-// ✅ Serve static files like images, GIFs, etc.
 app.use(express.static('public'));
 
 app.get('/', (req, res) => {
