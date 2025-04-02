@@ -39,7 +39,7 @@ app.get('/', (req, res) => {
         </style>
       </head>
       <body>
-        <h1>Welcome to LOOPII World ✨</h1>
+        <h1>Welcome to LOOPII World </h1>
         <img src="/doll.gif" alt="Dancing Doll" />
       </body>
       </html>
